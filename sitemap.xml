@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://www.origincat.com/Domain_Name_Change_Announcement/</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://www.origincat.com/Hexo_blog_backup_and_restore_based_on_github/</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -709,48 +718,6 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/kindle/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/hexo/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/vscode/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/python/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/excel/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/powershell/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.origincat.com/tags/git/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -772,70 +739,42 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/Qt/</loc>
+    <loc>http://www.origincat.com/tags/python/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E8%AE%A1%E7%AE%97%E5%99%A8/</loc>
+    <loc>http://www.origincat.com/tags/excel/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>http://www.origincat.com/tags/vscode/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
+    <loc>http://www.origincat.com/tags/powershell/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <loc>http://www.origincat.com/tags/hexo/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/macOS/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/Big-Sur/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/BCM94352HMB/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/tags/%E8%93%9D%E7%89%99/</loc>
+    <loc>http://www.origincat.com/tags/kindle/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -856,14 +795,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/cookbook/</loc>
+    <loc>http://www.origincat.com/tags/config/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/tags/config/</loc>
+    <loc>http://www.origincat.com/tags/cookbook/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -918,6 +857,76 @@
     <priority>0.2</priority>
   </url>
   
+  <url>
+    <loc>http://www.origincat.com/tags/%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/Qt/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E8%AE%A1%E7%AE%97%E5%99%A8/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E8%A7%A3%E5%8E%8B%E7%BC%A9/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/macOS/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/Big-Sur/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/BCM94352HMB/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/tags/%E8%93%9D%E7%89%99/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
 
   
   <url>
@@ -935,21 +944,7 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/kindle/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/categories/hexo/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.origincat.com/categories/%E5%B7%A5%E5%85%B7/</loc>
+    <loc>http://www.origincat.com/categories/git/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -963,28 +958,28 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/%E5%B7%A5%E5%85%B7/vscode/</loc>
+    <loc>http://www.origincat.com/categories/%E5%B7%A5%E5%85%B7/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/git/</loc>
+    <loc>http://www.origincat.com/categories/git/linux/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Qt/</loc>
+    <loc>http://www.origincat.com/categories/hexo/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
+    <loc>http://www.origincat.com/categories/kindle/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -992,6 +987,13 @@
   
   <url>
     <loc>http://www.origincat.com/categories/Linux/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/categories/%E5%B7%A5%E5%85%B7/vscode/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1012,7 +1014,14 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/git/linux/</loc>
+    <loc>http://www.origincat.com/categories/Java/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/categories/Linux/Arch/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -1033,13 +1042,6 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Linux/Arch/</loc>
-    <lastmod>2022-11-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://www.origincat.com/categories/Linux/Debian/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
@@ -1047,14 +1049,21 @@
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Java/</loc>
+    <loc>http://www.origincat.com/categories/Java/Java-SE/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://www.origincat.com/categories/Java/Java-SE/</loc>
+    <loc>http://www.origincat.com/categories/Qt/</loc>
+    <lastmod>2022-11-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.origincat.com/categories/%E9%BB%91%E8%8B%B9%E6%9E%9C/</loc>
     <lastmod>2022-11-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
